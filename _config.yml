@@ -62,8 +62,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "A simple blog to write about stuff."
   links:
-    - label: "LinkeIn"
-      icon: "fab fa-linkedin
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/tonywittinger/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
