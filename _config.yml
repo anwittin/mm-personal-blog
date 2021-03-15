@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Tony Wittinger"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/TonyIsolatedSmall.jpg"
   bio    : "A simple blog to write about stuff."
   links:
     - label: "LinkedIn"
